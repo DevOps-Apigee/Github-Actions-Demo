@@ -7,6 +7,6 @@ jobs:
       - name: Print Greeting
         run: |
           echo "Hello From Github Actions!"
-          echo date
+          date
       - name: Print Good-bye
         run: echo "Done - Bye!!"
